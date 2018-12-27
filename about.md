@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A Crazy Computer Systems Engineer, MMA Arts & Culture Science Enthusiast, Fitness, Gaming, News, Politics and a follower of Journalists and Pundits
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+To know more, you can connect with me via Twiiter, LinkedIn and E-mails.
 
-### Contact me
+### Contact me via Email
 
-[email@domain.com](mailto:email@domain.com)
+[myasirjunaid16@gmail.com](mailto:email@domain.com)
